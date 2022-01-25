@@ -1,2 +1,1 @@
-# whale
-Whale Coin TestNet
+
